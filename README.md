@@ -1,2 +1,2 @@
 # transformations-game
-new shit
+A game which demonstrates Catesian Transformations 
